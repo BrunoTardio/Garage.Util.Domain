@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Garage.Util.Domain.Aplication
 {
-    public class VeiculoDomain : Domain
+    public class VeiculoDomain : DomainApp
     {
         public string Nome { get; set; } = string.Empty;
         public string Placa { get; set; } = string.Empty;
@@ -37,7 +37,7 @@ namespace Garage.Util.Domain.Aplication
     /// mencionando se está em excelente estado, 
     /// bom estado, precisa de reparos, etc.
     /// </summary>
-    public class VeiculoCondicao : DomainSub
+    public class VeiculoCondicao : SubDomainApp
     {
         public string Observacao { get; set; } = string.Empty;
     }
@@ -45,7 +45,7 @@ namespace Garage.Util.Domain.Aplication
     /// <summary>
     /// Mencione se o veículo possui transmissão manual ou automática.
     /// </summary>
-    public class VeiculoTransmissao : DomainSub
+    public class VeiculoTransmissao : SubDomainApp
     {
         public string Observacao { get; set; } = string.Empty;
         public VEICULO_TRASMISSAO Transmissao { get; set; } = VEICULO_TRASMISSAO.DESCONHECIDO;
@@ -59,7 +59,7 @@ namespace Garage.Util.Domain.Aplication
     /// eficiência de combustível e 
     /// capacidade de carga (no caso de caminhões ou utilitários).
     /// </summary>
-    public class VeiculoDesempenho : DomainSub
+    public class VeiculoDesempenho : SubDomainApp
     {
         public ushort VelocidadeMaxima { get; set; } = 0;
         public ushort Potencia { get; set; } = 0;
@@ -71,7 +71,7 @@ namespace Garage.Util.Domain.Aplication
     /// <summary>
     ///  Identifique o tipo de veículo, como carro, SUV, caminhão, motocicleta, etc.
     /// </summary>
-    public class VeiculoTipo : DomainSub
+    public class VeiculoTipo : SubDomainApp
     {
         public string Tipo { get; set; } = string.Empty;
     }
@@ -79,7 +79,7 @@ namespace Garage.Util.Domain.Aplication
     /// <summary>
     /// 
     /// </summary>
-    public class VeiculoDetalhes : DomainSub
+    public class VeiculoDetalhes : SubDomainApp
     {
         public ushort AnoFabricacao { get; set; } = 1800;
     }
@@ -87,7 +87,7 @@ namespace Garage.Util.Domain.Aplication
     /// <summary>
     /// 
     /// </summary>
-    public class VeiculoKilometragem : DomainSub
+    public class VeiculoKilometragem : SubDomainApp
     {
         public uint KilometragemAtual { get; set; } = 0;
         public DateTime? DataAtualizadoKilometragemAtua { get; set; }
@@ -101,7 +101,7 @@ namespace Garage.Util.Domain.Aplication
     /// bancos de couro, ar-condicionado, vidros elétricos, 
     /// conectividade Bluetooth, entre outros.
     /// </summary>
-    public class VeiculoCaracteristicaInterna : DomainSub
+    public class VeiculoCaracteristicaInterna : SubDomainApp
     {
         public string Observacao { get; set; } = string.Empty;
     }
@@ -110,7 +110,7 @@ namespace Garage.Util.Domain.Aplication
     ///  Descreva as características externas, como cor, carroceria (sedã, hatchback, cupê, etc.), 
     ///  tamanho, rodas e detalhes visuais distintos.
     /// </summary>
-    public class VeiculoCaracteristicaExterna : DomainSub
+    public class VeiculoCaracteristicaExterna : SubDomainApp
     {
         public string Observacao { get; set; } = string.Empty;
     }

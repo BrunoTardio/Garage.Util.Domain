@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Garage.Util.Domain.Aplication
 {
-    public class LoginDomain : Domain
+    public class LoginDomain : DomainApp
     {
         public string Email { get; set; } = string.Empty;
         public string CpfCnpj { get; set; } = string.Empty;

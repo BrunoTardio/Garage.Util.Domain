@@ -15,7 +15,7 @@ namespace Garage.Util.Domain.Aplication
     /// reparos mecânicos, 
     /// substituição de peças, etc.
     /// </summary>
-    public class ServicoDomain : Domain
+    public class ServicoDomain : DomainApp
     {
 
     }

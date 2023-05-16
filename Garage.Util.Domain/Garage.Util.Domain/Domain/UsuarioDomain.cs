@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Garage.Util.Domain.Aplication
 {
-    public class UsuarioDomain : Domain
+    public class UsuarioDomain : DomainApp
     {
         public string Nome { get; set; } = string.Empty;
         public List<string> Email { get; set; } = new List<string> { string.Empty };

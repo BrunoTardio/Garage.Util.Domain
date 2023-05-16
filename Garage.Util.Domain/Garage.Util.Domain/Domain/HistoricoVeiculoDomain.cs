@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Garage.Util.Domain.Aplication
 {
-    public class HistoricoVeiculoDomain : Domain
+    public class HistoricoVeiculoDomain : DomainApp
     {
         public HistoricoManutencaoVeiculoDomain? HistoricoManutencao { get; set; }
         // historico troca usuario

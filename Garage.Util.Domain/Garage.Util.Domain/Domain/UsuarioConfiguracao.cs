@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Garage.Util.Domain.Aplication
 {
-    public class UsuarioConfiguracao : Domain
+    public class UsuarioConfiguracao : DomainApp
     {
         public DateTime? DataUltimoAcesso { get; set; }
     }

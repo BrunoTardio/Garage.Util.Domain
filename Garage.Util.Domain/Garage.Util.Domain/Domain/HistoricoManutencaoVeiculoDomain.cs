@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Garage.Util.Domain.Aplication
 {
-    public class HistoricoManutencaoVeiculoDomain : Domain
+    public class HistoricoManutencaoVeiculoDomain : DomainApp
     {
 
         public uint QuilometragemAferida { get; set; } = 0;
