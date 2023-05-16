@@ -1,6 +1,6 @@
 ﻿namespace Garage.Util.Domain
 {
-    public class Class1
+    public abstract class Domain
     {
 
     }
