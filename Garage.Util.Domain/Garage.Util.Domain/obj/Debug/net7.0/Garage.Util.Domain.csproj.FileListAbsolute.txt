@@ -1,0 +1,5 @@
+C:\Users\Tardio\Desktop\MECANICA SYSTEM\Bibliotecas\Garage.Util.Domain\Garage.Util.Domain\obj\Debug\net7.0\Garage.Util.Domain.csproj.AssemblyReference.cache
+C:\Users\Tardio\Desktop\MECANICA SYSTEM\Bibliotecas\Garage.Util.Domain\Garage.Util.Domain\obj\Debug\net7.0\Garage.Util.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tardio\Desktop\MECANICA SYSTEM\Bibliotecas\Garage.Util.Domain\Garage.Util.Domain\obj\Debug\net7.0\Garage.Util.Domain.AssemblyInfoInputs.cache
+C:\Users\Tardio\Desktop\MECANICA SYSTEM\Bibliotecas\Garage.Util.Domain\Garage.Util.Domain\obj\Debug\net7.0\Garage.Util.Domain.AssemblyInfo.cs
+C:\Users\Tardio\Desktop\MECANICA SYSTEM\Bibliotecas\Garage.Util.Domain\Garage.Util.Domain\obj\Debug\net7.0\Garage.Util.Domain.csproj.CoreCompileInputs.cache
