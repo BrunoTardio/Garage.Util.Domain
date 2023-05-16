@@ -11,13 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Garage.Util.Domain")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Biblioteca com os dominios da aplicacao Garage")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Garage.WSGerenciaUsuario")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0-Projeto-inicial")]
-[assembly: System.Reflection.AssemblyProductAttribute("Garage.Util.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Garage.Util.Domain")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("Garage.WSGerenciaUsuario")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Garage.WSGerenciaUsuario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
