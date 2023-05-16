@@ -6,5 +6,8 @@ using System.Threading.Tasks;
 
 namespace Garage.Util.Domain.Aplication
 {
-    
+    public class ServicoAutomotivoDomain
+    {
+        public string DescricaoServico { get; set; } = string.Empty;
+    }
 }

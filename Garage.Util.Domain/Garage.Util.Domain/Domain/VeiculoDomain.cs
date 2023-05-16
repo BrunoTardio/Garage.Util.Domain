@@ -25,6 +25,8 @@ namespace Garage.Util.Domain.Aplication
         public VeiculoTransmissao? Transmissao { get; set; }
         public VeiculoCondicao? Condicao { get; set; }
 
+        public List<HistoricoVeiculoDomain> HistoricoManutencao { get; set; } = new List<HistoricoVeiculoDomain>();
+
         // historico manutencao inserir
         // documentacao e legalidade
         // preco
