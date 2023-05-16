@@ -2,6 +2,6 @@
 {
     public abstract class Domain
     {
-
+        public ulong Identificador { get; set; } = 0;
     }
 }

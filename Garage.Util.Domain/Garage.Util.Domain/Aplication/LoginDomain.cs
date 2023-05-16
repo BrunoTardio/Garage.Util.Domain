@@ -8,7 +8,9 @@ namespace Garage.Util.Domain.Aplication
 {
     public class LoginDomain : Domain
     {
-        public string Email { get; set; }
-        public string Senha { get; set; }
+        public string Email { get; set; } = string.Empty;
+        public string CpfCnpj { get; set; } = string.Empty;
+        public string Senha { get; set; } = string.Empty;
+        public string Token { get; set; } = string.Empty;
     }
 }
