@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tmgdo6FwsKuw/ZfNl7kfeHngmkuGkfBVRU6uYF14ciC+7qzHeg7r1G1nMK8mzHc5Khwo2ykn9/mnElyWtHcomA==",
+  "dgSpecHash": "g+RzgAcO0fWaYr0YW4T+ljWp6dqOS2fZObG6altd7eIaYBeZFtRDWHsR2rXD+U3FS+mSSrsipd66CSPslvz8eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Garage.Util.Domain\\Garage.Util.Domain\\Garage.Util.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Domain\\Garage.Util.Domain\\Garage.Util.Domain\\Garage.Util.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

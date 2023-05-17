@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Garage.Util.Domain\\Garage.Util.Domain\\Garage.Util.Domain.csproj": {}
+    "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Domain\\Garage.Util.Domain\\Garage.Util.Domain\\Garage.Util.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Garage.Util.Domain\\Garage.Util.Domain\\Garage.Util.Domain.csproj": {
+    "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Domain\\Garage.Util.Domain\\Garage.Util.Domain\\Garage.Util.Domain.csproj": {
       "version": "1.0.0-Projeto-inicial",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Garage.Util.Domain\\Garage.Util.Domain\\Garage.Util.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Domain\\Garage.Util.Domain\\Garage.Util.Domain\\Garage.Util.Domain.csproj",
         "projectName": "Garage.Util.Domain",
-        "projectPath": "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Garage.Util.Domain\\Garage.Util.Domain\\Garage.Util.Domain.csproj",
+        "projectPath": "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Domain\\Garage.Util.Domain\\Garage.Util.Domain\\Garage.Util.Domain.csproj",
         "packagesPath": "C:\\Users\\Tardio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Garage.Util.Domain\\Garage.Util.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Tardio\\Desktop\\MECANICA SYSTEM\\Bibliotecas\\Domain\\Garage.Util.Domain\\Garage.Util.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tardio\\AppData\\Roaming\\NuGet\\NuGet.Config",
